@@ -1,2 +1,1 @@
-# dynamic-to-do-list-js
-Dynamic To-Do list
+# Dynamic To-Do list
